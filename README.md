@@ -15,7 +15,6 @@ Shows:
 
 ## Files
 - `main.cpp` - C++17 source
-- `sample_input.txt` - example input (format described below)
 - `README.md` - this file
 
 ---
